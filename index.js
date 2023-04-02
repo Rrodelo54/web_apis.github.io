@@ -5,14 +5,14 @@ contet.classList.add("header");
 //si se puede agregar clases a etiquetas desde aqui
 contet.innerHTML = `
   <div class="logo">
-  <img src="/img/api.png">
+  <img src="img/api.png">
   Wed Api Free</div>
   <input type="checkbox" id="toggle">
-  <label for="toggle"><img src="/img/menu-logo.png" class="men" alt=""></label>
+  <label for="toggle"><img src="img/menu-logo.png" class="men" alt=""></label>
   <nav class="navegation">
     <ul>
-    <li><a href="/index.html">INICIO</a></li>
-    <li><a href="/apis.html">APIs</a></li>
+    <li><a href="index.html">INICIO</a></li>
+    <li><a href="apis.html">APIs</a></li>
     </ul>
     </nav>
     `;
