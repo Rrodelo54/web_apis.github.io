@@ -11,8 +11,8 @@ contet.innerHTML = `
   <label for="toggle"><img src="img/menu-logo.png" class="men" alt=""></label>
   <nav class="navegation">
     <ul>
-    <li><a href="index.html">INICIO</a></li>
-    <li><a href="apis.html">APIs</a></li>
+    <li><a href="\index.html">INICIO</a></li>
+    <li><a href="\apis.html">APIs</a></li>
     </ul>
     </nav>
     `;
