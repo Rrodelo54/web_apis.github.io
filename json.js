@@ -1,13 +1,4 @@
 const apis = [
-    /*
-    {
-        name:"",
-        img: "",
-        tipo:"publica",
-        link:"",
-    },
-
-   */
     {
         name:"Twitter API",
         img: "https://aeroleads.com/blog/wp-content/uploads/2019/10/595944-636247477374032053-16x9.jpg",
